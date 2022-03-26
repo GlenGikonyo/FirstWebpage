@@ -1,0 +1,12 @@
+.{
+	margin: 0;
+	padding: 0;
+}
+.header{
+	min-height:100vh;
+	width: 100%;
+	background-image:url(C:\Users\gikon\OneDrive\Documents\SEM 2\INTRODUCTION TO WEB DEVELOPMENT\HTML AND CSS\images\banner.png);
+	background-position:centre;
+	background-size: cover;
+	position: relative;
+}
